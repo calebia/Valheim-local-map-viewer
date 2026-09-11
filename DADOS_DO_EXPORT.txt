@@ -1,0 +1,10 @@
+{
+  "WorldSeed": "nooo",
+  "WorldVersion": "0.221.10",
+  "TileRowCount": 1024,
+  "TileSize": 6000.0,
+  "TileSideCount": 4,
+  "WorldWidth": 24000.0,
+  "GeneratorVersion": "9.2",
+  "GeneratorUnityVersion": "2019.4.40f1"
+}
